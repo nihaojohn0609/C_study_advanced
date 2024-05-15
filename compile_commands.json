@@ -1,0 +1,137 @@
+[{
+  "file": "C:\\dev\\C\\Advanced\\Challenge29\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge29",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge29\\main.c -o C:\\dev\\C\\Advanced\\Challenge29\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge28\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge28",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge28\\main.c -o C:\\dev\\C\\Advanced\\Challenge28\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge25\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge25",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge25\\main.c -o C:\\dev\\C\\Advanced\\Challenge25\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge24\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge24",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge24\\main.c -o C:\\dev\\C\\Advanced\\Challenge24\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge23\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge23",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge23\\main.c -o C:\\dev\\C\\Advanced\\Challenge23\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge20\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge20",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge20\\main.c -o C:\\dev\\C\\Advanced\\Challenge20\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge27\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge27",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge27\\main.c -o C:\\dev\\C\\Advanced\\Challenge27\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge26\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge26",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge26\\main.c -o C:\\dev\\C\\Advanced\\Challenge26\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge22\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge22",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge22\\main.c -o C:\\dev\\C\\Advanced\\Challenge22\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge15\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge15",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge15\\main.c -o C:\\dev\\C\\Advanced\\Challenge15\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge16\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge16",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge16\\main.c -o C:\\dev\\C\\Advanced\\Challenge16\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge12\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge12",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge12\\main.c -o C:\\dev\\C\\Advanced\\Challenge12\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Workspace2\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Workspace2",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Workspace2\\main.c -o C:\\dev\\C\\Advanced\\Workspace2\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge11\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge11",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge11\\main.c -o C:\\dev\\C\\Advanced\\Challenge11\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge9\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge9",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge9\\main.c -o C:\\dev\\C\\Advanced\\Challenge9\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge7\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge7",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge7\\main.c -o C:\\dev\\C\\Advanced\\Challenge7\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge3\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge3",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge3\\main.c -o C:\\dev\\C\\Advanced\\Challenge3\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge3\\display.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge3",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge3\\display.c -o C:\\dev\\C\\Advanced\\Challenge3\\display.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge8\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge8",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge8\\main.c -o C:\\dev\\C\\Advanced\\Challenge8\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge6\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge6",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge6\\main.c -o C:\\dev\\C\\Advanced\\Challenge6\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge21\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge21",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge21\\main.c -o C:\\dev\\C\\Advanced\\Challenge21\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge17\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge17",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge17\\main.c -o C:\\dev\\C\\Advanced\\Challenge17\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge13\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge13",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge13\\main.c -o C:\\dev\\C\\Advanced\\Challenge13\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Project1\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Project1",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Project1\\main.c -o C:\\dev\\C\\Advanced\\Project1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge5Advanced\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge5Advanced",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge5Advanced\\main.c -o C:\\dev\\C\\Advanced\\Challenge5Advanced\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge14\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge14",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge14\\main.c -o C:\\dev\\C\\Advanced\\Challenge14\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge10\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge10",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge10\\main.c -o C:\\dev\\C\\Advanced\\Challenge10\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge2\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge2",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge2\\main.c -o C:\\dev\\C\\Advanced\\Challenge2\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge1\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge1",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge1\\main.c -o C:\\dev\\C\\Advanced\\Challenge1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\OurFirstProgran\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\OurFirstProgran",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\OurFirstProgran\\main.c -o C:\\dev\\C\\Advanced\\OurFirstProgran\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge19\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge19",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge19\\main.c -o C:\\dev\\C\\Advanced\\Challenge19\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge30\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge30",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge30\\main.c -o C:\\dev\\C\\Advanced\\Challenge30\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge4\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge4",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge4\\main.c -o C:\\dev\\C\\Advanced\\Challenge4\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\dev\\C\\Advanced\\Challenge18\\main.c",
+  "directory": "C:\\dev\\C\\Advanced\\Challenge18",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\dev\\C\\Advanced\\Challenge18\\main.c -o C:\\dev\\C\\Advanced\\Challenge18\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]

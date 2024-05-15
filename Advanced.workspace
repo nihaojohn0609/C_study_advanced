@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Advanced" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Workspace2" Path="Workspace2/Workspace2.project" Active="No"/>
+  <Project Name="OurFirstProgram" Path="OurFirstProgran/OurFirstProgran.project" Active="No"/>
+  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
+  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
+  <Project Name="Challenge3" Path="Challenge3/Challenge3.project" Active="No"/>
+  <Project Name="Challenge4" Path="Challenge4/Challenge4.project" Active="No"/>
+  <Project Name="Challenge5" Path="Challenge5Advanced/Challenge5Advanced.project" Active="No"/>
+  <Project Name="Challenge6" Path="Challenge6/Challenge6.project" Active="No"/>
+  <Project Name="Challenge7" Path="Challenge7/Challenge7.project" Active="No"/>
+  <Project Name="Challenge8" Path="Challenge8/Challenge8.project" Active="No"/>
+  <Project Name="Challenge9" Path="Challenge9/Challenge9.project" Active="No"/>
+  <Project Name="Challenge10" Path="Challenge10/Challenge10.project" Active="No"/>
+  <Project Name="Challenge11" Path="Challenge11/Challenge11.project" Active="No"/>
+  <Project Name="Challenge12" Path="Challenge12/Challenge12.project" Active="No"/>
+  <Project Name="Challenge13" Path="Challenge13/Challenge13.project" Active="No"/>
+  <Project Name="Challenge14" Path="Challenge14/Challenge14.project" Active="No"/>
+  <Project Name="Challenge15" Path="Challenge15/Challenge15.project" Active="No"/>
+  <Project Name="Challenge16" Path="Challenge16/Challenge16.project" Active="No"/>
+  <Project Name="Challenge17" Path="Challenge17/Challenge17.project" Active="No"/>
+  <Project Name="Challenge18" Path="Challenge18/Challenge18.project" Active="No"/>
+  <Project Name="Challenge19" Path="Challenge19/Challenge19.project" Active="No"/>
+  <Project Name="Challenge20" Path="Challenge20/Challenge20.project" Active="No"/>
+  <Project Name="Challenge21" Path="Challenge21/Challenge21.project" Active="No"/>
+  <Project Name="Challenge22" Path="Challenge22/Challenge22.project" Active="No"/>
+  <Project Name="Challenge23" Path="Challenge23/Challenge23.project" Active="No"/>
+  <Project Name="Challenge24" Path="Challenge24/Challenge24.project" Active="No"/>
+  <Project Name="Challenge25" Path="Challenge25/Challenge25.project" Active="No"/>
+  <Project Name="Challenge26" Path="Challenge26/Challenge26.project" Active="No"/>
+  <Project Name="Challenge27" Path="Challenge27/Challenge27.project" Active="No"/>
+  <Project Name="Challenge28" Path="Challenge28/Challenge28.project" Active="No"/>
+  <Project Name="Challenge29" Path="Challenge29/Challenge29.project" Active="No"/>
+  <Project Name="Challenge30" Path="Challenge30/Challenge30.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Workspace2" ConfigName="Debug"/>
+      <Project Name="OurFirstProgram" ConfigName="Debug"/>
+      <Project Name="Challenge1" ConfigName="Debug"/>
+      <Project Name="Challenge2" ConfigName="Debug"/>
+      <Project Name="Challenge3" ConfigName="Debug"/>
+      <Project Name="Challenge4" ConfigName="Debug"/>
+      <Project Name="Challenge5" ConfigName="Debug"/>
+      <Project Name="Challenge6" ConfigName="Debug"/>
+      <Project Name="Challenge7" ConfigName="Debug"/>
+      <Project Name="Challenge8" ConfigName="Debug"/>
+      <Project Name="Challenge8" ConfigName="Debug"/>
+      <Project Name="Challenge9" ConfigName="Debug"/>
+      <Project Name="Challenge10" ConfigName="Debug"/>
+      <Project Name="Challenge11" ConfigName="Debug"/>
+      <Project Name="a.c" ConfigName="Debug"/>
+      <Project Name="Challenge12" ConfigName="Debug"/>
+      <Project Name="Challenge13" ConfigName="Debug"/>
+      <Project Name="Challenge14" ConfigName="Debug"/>
+      <Project Name="Challenge15" ConfigName="Debug"/>
+      <Project Name="Challenge16" ConfigName="Debug"/>
+      <Project Name="Challenge17" ConfigName="Debug"/>
+      <Project Name="Challenge18" ConfigName="Debug"/>
+      <Project Name="Challenge19" ConfigName="Debug"/>
+      <Project Name="Challenge20" ConfigName="Debug"/>
+      <Project Name="Challenge21" ConfigName="Debug"/>
+      <Project Name="Challenge22" ConfigName="Debug"/>
+      <Project Name="Challenge23" ConfigName="Debug"/>
+      <Project Name="Challenge24" ConfigName="Debug"/>
+      <Project Name="Challenge25" ConfigName="Debug"/>
+      <Project Name="Challenge26" ConfigName="Debug"/>
+      <Project Name="Challenge27" ConfigName="Debug"/>
+      <Project Name="Challenge28" ConfigName="Debug"/>
+      <Project Name="Challenge29" ConfigName="Debug"/>
+      <Project Name="Challenge30" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Workspace2" ConfigName="Release"/>
+      <Project Name="OurFirstProgram" ConfigName="Release"/>
+      <Project Name="Challenge1" ConfigName="Release"/>
+      <Project Name="Challenge2" ConfigName="Release"/>
+      <Project Name="Challenge3" ConfigName="Release"/>
+      <Project Name="Challenge4" ConfigName="Release"/>
+      <Project Name="Challenge5" ConfigName="Release"/>
+      <Project Name="Challenge6" ConfigName="Release"/>
+      <Project Name="Challenge7" ConfigName="Release"/>
+      <Project Name="Challenge8" ConfigName="Release"/>
+      <Project Name="Challenge8" ConfigName="Release"/>
+      <Project Name="Challenge9" ConfigName="Release"/>
+      <Project Name="Challenge10" ConfigName="Release"/>
+      <Project Name="Challenge11" ConfigName="Release"/>
+      <Project Name="a.c" ConfigName="Release"/>
+      <Project Name="Challenge12" ConfigName="Release"/>
+      <Project Name="Challenge13" ConfigName="Release"/>
+      <Project Name="Challenge14" ConfigName="Release"/>
+      <Project Name="Challenge15" ConfigName="Release"/>
+      <Project Name="Challenge16" ConfigName="Release"/>
+      <Project Name="Challenge17" ConfigName="Release"/>
+      <Project Name="Challenge18" ConfigName="Release"/>
+      <Project Name="Challenge19" ConfigName="Release"/>
+      <Project Name="Challenge20" ConfigName="Release"/>
+      <Project Name="Challenge21" ConfigName="Release"/>
+      <Project Name="Challenge22" ConfigName="Release"/>
+      <Project Name="Challenge23" ConfigName="Release"/>
+      <Project Name="Challenge24" ConfigName="Release"/>
+      <Project Name="Challenge25" ConfigName="Release"/>
+      <Project Name="Challenge26" ConfigName="Release"/>
+      <Project Name="Challenge27" ConfigName="Release"/>
+      <Project Name="Challenge28" ConfigName="Release"/>
+      <Project Name="Challenge29" ConfigName="Release"/>
+      <Project Name="Challenge30" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
